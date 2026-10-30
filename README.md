@@ -36,10 +36,10 @@ Makes a child's study history and effort visible, and shares progress through AI
 
 ## いま / Now
 
-**Built with Claude: Japan 2026**（Anthropic × Cerebral Valley、2026-11-02〜11-10、#claudejapan2026）に応募中。
-作るのは、**面談する側（講師・コーチ）の振り返りを支える AI**。採点せず、本人の発言を原文で示し、次回試す一つの行動を決めます。
+**Built with Claude: Japan 2026**（Anthropic × Cerebral Valley、2026-11-02〜11-10、#claudejapan2026）に選抜されました（応募 5,500 名超から 250 名）。
+11 月 2 日〜8 日に作るのは、**面談・コーチングする側（講師・コーチ）の振り返りを支える AI**。人を採点せず、本人の発言を原文で示し、次回試す一つの行動を決めて、次の面談でその行動がどう現れたかを返します。
 
-Applying to Built with Claude: Japan 2026 (Anthropic × Cerebral Valley). Building a reflection partner for the person *leading* the conversation: it cites your own words, never scores you, and helps you pick one thing to try next time.
+Selected for Built with Claude: Japan 2026 (Anthropic × Cerebral Valley; 250 builders chosen from 5,500+ applicants). From November 2 to 8, I'm building a reflection partner for the person *leading* the conversation: it cites your own words, never grades you as a person, helps you pick one thing to try next time, and shows how that action appeared in your next session.
 
 ## つながり / Links
 
